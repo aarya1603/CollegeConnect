@@ -1,4 +1,5 @@
 # CollegeConnect 🎓
+https://collegeeconnect.netlify.app
 
 **Smart College Resource Management Platform**
 
